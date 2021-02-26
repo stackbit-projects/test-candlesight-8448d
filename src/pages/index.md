@@ -7,7 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >-
-      # Organic Wellness deliver right to your door
+      # Organic Wellness delivered right to your door
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
